@@ -5,12 +5,19 @@ This research focuses on developing a Computer-Aided Diagnosis (CAD) model for a
 
 ## File Structure
 project
+
 ├── label
+
 ├── models
+
 ├── dataloader.py
+
 ├── eval.py
+
 ├── fusion.py
+
 ├── model.py
+
 └── train.py
 
 train.py: Script to train the model on MRI data.
