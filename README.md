@@ -15,11 +15,11 @@ project
 └── train.py  
 ```  
 
-train.py: Script to train the model on MRI data.  
-dataloader.py: Handles loading and preprocessing of MRI data.  
-eval.py: Evaluates the performance of the model.  
-fusion.py: Responsible for fusing results from different planes using logistic regression.  
-model.py: Defines the MRNet architecture used in this research.    
+- train.py: Script to train the model on MRI data.  
+- dataloader.py: Handles loading and preprocessing of MRI data.  
+- eval.py: Evaluates the performance of the model.  
+- fusion.py: Responsible for fusing results from different planes using logistic regression.  
+- model.py: Defines the MRNet architecture used in this research.    
 
 ## Experimental Results and Analysis
 Discusses the outcomes of the CAD model, highlighting the F1-score of 0.9508 achieved when fusing three planes.
