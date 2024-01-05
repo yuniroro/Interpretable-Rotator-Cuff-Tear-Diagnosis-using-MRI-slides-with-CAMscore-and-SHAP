@@ -1,5 +1,9 @@
 # Interpretable-Rotator-Cuff-Tear-Diagnosis-using-MRI-slides-with-CAMscore-and-SHAP
 
+
+![](./main.png)
+
+
 ## Project Overview
 This research focuses on developing a Computer-Aided Diagnosis (CAD) model for age-related musculoskeletal disorders, specifically Rotator Cuff Tears (RCTs), that occur in the shoulder region. The project involves using three-plane MRI slides coupled with diagnostic outcomes to enhance the interpretability of the CAD model. The MRNet architecture is utilized, with training on each anatomical plane and a fusion of results through logistic regression.  
 
