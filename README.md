@@ -1,7 +1,7 @@
 # Interpretable-Rotator-Cuff-Tear-Diagnosis-using-MRI-slides-with-CAMscore-and-SHAP
 
 
-![](./main.png)
+![](./main.jpg)
 
 
 ## Project Overview
