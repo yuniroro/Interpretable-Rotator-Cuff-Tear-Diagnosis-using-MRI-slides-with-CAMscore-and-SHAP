@@ -36,10 +36,10 @@ Discusses the outcomes of the CAD model, highlighting the F1-score of 0.9508 ach
 Comparison of diagnostic efficacy across sagittal, axial, and coronal planes.
 Introduction of CAMscore, a method using GradCAM, to quantitatively assess the diagnostic relevance of individual MRI slides.  
 
-**GradCAM**
+### GradCAM
 ![](./images/GradCAM.jpg)
 
-**SHAP**
+### SHAP
 ![](./images/SHAP.jpg)
 
 
