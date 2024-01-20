@@ -37,7 +37,7 @@ Comparison of diagnostic efficacy across sagittal, axial, and coronal planes.
 Introduction of CAMscore, a method using GradCAM, to quantitatively assess the diagnostic relevance of individual MRI slides.  
 
 ### Best Models
-[Models](https://doi.org/10.6084/m9.figshare.25035767.v1)
+Link: [Models](https://doi.org/10.6084/m9.figshare.25035767.v1)
 
 ### GradCAM
 ![](./images/GradCAM.jpg)
