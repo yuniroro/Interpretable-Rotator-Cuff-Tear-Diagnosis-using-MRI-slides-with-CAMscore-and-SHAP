@@ -2,8 +2,14 @@
 
 ![](./images/RCTs.jpg)
 
-## Project Overview
-This research focuses on developing a Computer-Aided Diagnosis (CAD) model for age-related musculoskeletal disorders, specifically Rotator Cuff Tears (RCTs), that occur in the shoulder region. The project involves using three-plane MRI slides coupled with diagnostic outcomes to enhance the interpretability of the CAD model. The MRNet architecture is utilized, with training on each anatomical plane and a fusion of results through logistic regression.  
+## Overview
+
+This repository contains the code and parameters for the project presented at SPIE Medical Imaging 2024, titled "Interpretable Rotator Cuff Tear Diagnosis using MRI slides with CAMscore and SHAP." The project focuses on developing a Computer-Aided Diagnosis (CAD) model for age-related musculoskeletal disorders, specifically Rotator Cuff Tears (RCTs), in the shoulder region. The goal is to enhance the interpretability of the CAD model using three-plane MRI slides and diagnostic outcomes.
+
+## Key Features
+
+- **CAMscore:** Introduces a CAMscore mechanism to identify the importance of individual MRI slides in the decision-making process.
+- **SHAP (SHapley Additive exPlanations):** Utilizes SHAP values for interpreting the model's output and understanding feature importance.
 
 ![](./images/project_overview.jpg?scale=0.7)
 
@@ -39,7 +45,7 @@ Introduction of CAMscore, a method using GradCAM, to quantitatively assess the d
 ### Best Models
 [Models Download](https://doi.org/10.6084/m9.figshare.25035767.v1)
 
-### GradCAM
+### CAMscore
 ![](./images/GradCAM.jpg?scale=0.7)
 
 ### SHAP
